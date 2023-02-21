@@ -52,3 +52,14 @@ var estado = Boolean(10 < 9)
 
 var fecha = new Date();
 
+
+// ---------------simbolo-------------------------
+
+var simbolo1 = Symbol();
+
+var ambiente = Symbol("Dev")
+
+
+
+
+
